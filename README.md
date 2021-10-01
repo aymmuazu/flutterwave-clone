@@ -1,4 +1,4 @@
-# FLUTTERWAVE - Cloning App Using Laravel PHP
+# Flutterwave - Cloning App Using Laravel PHP
  
 ## Description
 
